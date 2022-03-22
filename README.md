@@ -18,3 +18,6 @@ https://www.linkedin.com/in/ariane-s%C3%A1/
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
+  # Snake Animation
+  - uses: Platane/snk@master
+    id: snake-gif
