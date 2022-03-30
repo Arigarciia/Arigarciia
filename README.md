@@ -3,8 +3,6 @@ Oiii!!! Meu nome é Ariane Garcia
 Sou apaixonada pela área tech recruiter e meu intuito é encantar futuros candidados 
 Hoje trabalho em sourcing com foco em mobile 
 
-</div>
- <img align="center" alt="Igor-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
  
 ##
   
