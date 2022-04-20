@@ -1,6 +1,6 @@
 Oiii!!! Meu nome é Ariane Garcia 
 
-Sou apaixonada pela área tech recruiter e meu intuito é encantar futuros candidados para o PicPay.
+Sou apaixonada pela área Tech Recruiter e meu intuito é encantar futuros candidados para o PicPay.
 Hoje trabalho em sourcing com foco em mobile (Android e IOS).
 
  
